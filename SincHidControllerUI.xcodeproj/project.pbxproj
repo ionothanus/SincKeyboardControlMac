@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FB26897D269D287000AAB4E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB26897C269D287000AAB4E6 /* ContentView.swift */; };
 		FB954B032699515800329F5A /* SincHidControllerUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB954B022699515800329F5A /* SincHidControllerUIApp.swift */; };
 		FB954B072699515A00329F5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB954B062699515A00329F5A /* Assets.xcassets */; };
 		FB954B0A2699515A00329F5A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB954B092699515A00329F5A /* Preview Assets.xcassets */; };
@@ -15,7 +14,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FB26897C269D287000AAB4E6 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB954AFF2699515800329F5A /* SincHidControllerUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SincHidControllerUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB954B022699515800329F5A /* SincHidControllerUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SincHidControllerUIApp.swift; sourceTree = "<group>"; };
 		FB954B062699515A00329F5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -55,7 +53,6 @@
 		FB954B012699515800329F5A /* SincHidControllerUI */ = {
 			isa = PBXGroup;
 			children = (
-				FB26897C269D287000AAB4E6 /* ContentView.swift */,
 				FB954B022699515800329F5A /* SincHidControllerUIApp.swift */,
 				FB954B062699515A00329F5A /* Assets.xcassets */,
 				FB954B0B2699515A00329F5A /* Info.plist */,
@@ -145,7 +142,6 @@
 			files = (
 				FB954B032699515800329F5A /* SincHidControllerUIApp.swift in Sources */,
 				FB954B13269A2C8500329F5A /* SincHidController.swift in Sources */,
-				FB26897D269D287000AAB4E6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
